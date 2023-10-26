@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+h1{
+    color: purple;
+}
+#introductionparagraph{
+    color: purple;
+    font-size: large;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'Cedarville Cursive', cursive;
+}
+table,tr,td{
+    border: 2px ;
+    border-style: ridge;
+    text-align: center;
+    color: purple;
+    font-size: large;
+    font-family: 'Handlee', cursive;
+}
+table{
+    margin: 60px ;
+}
+.colour1{
+    background-color: rgb(199, 219, 240);
+}
+.colour2{
+    background-color: rgb(247, 212, 217);
+}
